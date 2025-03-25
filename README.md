@@ -2,4 +2,4 @@ video downloader for [Bluetube](https://newbluetube.yooco.org/) and [GumballTube
 # Usage
 ```sh
 $ phyton3 main.py dl 70
-´´´
+```
