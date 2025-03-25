@@ -1,1 +1,1 @@
-video downloader for [Bluetube](https://newbluetube.yooco.org/) and [GumballTube](gumballtube.yooco.org)
+video downloader for [Bluetube](https://newbluetube.yooco.org/) and [GumballTube](https://gumballtube.yooco.org)
